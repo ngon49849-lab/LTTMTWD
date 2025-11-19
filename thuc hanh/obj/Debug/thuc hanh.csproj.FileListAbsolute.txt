@@ -1,0 +1,7 @@
+C:\Users\ngon4\source\repos\thuc hanh\bin\Debug\thuc hanh.exe.config
+C:\Users\ngon4\source\repos\thuc hanh\bin\Debug\thuc hanh.exe
+C:\Users\ngon4\source\repos\thuc hanh\bin\Debug\thuc hanh.pdb
+C:\Users\ngon4\source\repos\thuc hanh\obj\Debug\thuc hanh.csproj.AssemblyReference.cache
+C:\Users\ngon4\source\repos\thuc hanh\obj\Debug\thuc hanh.csproj.CoreCompileInputs.cache
+C:\Users\ngon4\source\repos\thuc hanh\obj\Debug\thuc hanh.exe
+C:\Users\ngon4\source\repos\thuc hanh\obj\Debug\thuc hanh.pdb
