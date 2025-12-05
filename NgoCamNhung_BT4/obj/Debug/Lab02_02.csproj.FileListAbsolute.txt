@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\Lab02\Lab02_02\bin\Debug\Lab02_02.exe.config
+C:\Users\Administrator\source\repos\Lab02\Lab02_02\bin\Debug\Lab02_02.exe
+C:\Users\Administrator\source\repos\Lab02\Lab02_02\bin\Debug\Lab02_02.pdb
+C:\Users\Administrator\source\repos\Lab02\Lab02_02\obj\Debug\Lab02_02.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lab02\Lab02_02\obj\Debug\Lab02_02.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Lab02\Lab02_02\obj\Debug\Lab02_02.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Lab02\Lab02_02\obj\Debug\Lab02_02.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lab02\Lab02_02\obj\Debug\Lab02_02.exe
+C:\Users\Administrator\source\repos\Lab02\Lab02_02\obj\Debug\Lab02_02.pdb
